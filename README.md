@@ -4,7 +4,12 @@
 
 # MiniMozart
 
-Deep learning RNN project that creates a melody one note at a time with Mozart's help.
+Deep learning RNN project that creates a melody one note at a time with Mozart's help. 
+
+## Streamlit App
+Hear example melodies and write your own using the model api. 
+
+Try it! -[MiniMozart](https://cmp-web-7wc6zc723a-ew.a.run.app/)
 
 ## Data creation
 
