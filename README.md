@@ -1,15 +1,27 @@
 
-![Logo](screenshots/logo.jpg)
+# MiniMozart 🎼✍️
 
-
-# MiniMozart
-
-Deep learning RNN project that creates a melody one note at a time with Mozart's help. 
+An RNN deep learning powered tool for writing melodies with the help of Mozart.
 
 ## Streamlit App
 Hear example melodies and write your own using the model api. 
 
 Try it! -[MiniMozart](https://cmp-web-7wc6zc723a-ew.a.run.app/)
+
+## Skills I used/learned
+
+🎹 Cleaned, transformed, and augmented 52 pieces of messy music data to 20,000 9-note sequences of pitch and duration for dataset
+
+🎵 Used Keras to train Recurrent Neural Network models with LSTM and Dropout layers, trained with Early Stopping
+
+🎸 Quickly self taught specialised music packages and software using available documentation
+
+🎶 Built Docker virtual machines with specified environments and installed software dependencies
+
+🎻 Built a complex frontend website with Streamlit, using statefulness and API connections to run smoothly
+
+🎺 Hosted the model API and Streamlit in a Docker virtual machine on Google Cloud Platform with custom settings
+
 
 ## Data creation
 
