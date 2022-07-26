@@ -3,8 +3,12 @@
 
 An RNN deep learning powered tool for writing melodies with the help of Mozart.
 
+## Presentation
+
+[Watch us give a short presentation about our project on YouTube [38:55]](https://www.youtube.com/watch?v=-F3EDyv4pKo&t=2335s)
+
 ## Streamlit App
-Hear example melodies and write your own using the model api. 
+Hear example melodies and write your own using the model api
 
 Try it! -[MiniMozart](https://cmp-web-3mknid2ioq-ew.a.run.app/)
 
