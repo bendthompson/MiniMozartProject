@@ -1,11 +1,3 @@
-# Data analysis
-- Document here the project: CoolMelodyProject
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
-Please document the project the better you can.
-
 # Startup the project
 
 The initial setup.
@@ -35,7 +27,7 @@ git push -u origin master
 git push -u origin --tags
 ```
 
-Functionnal test with a script:
+Functional test with a script:
 
 ```bash
 cd
